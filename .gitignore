@@ -1,0 +1,7 @@
+# 单个文件超过 GitHub 100MB 上限，暂不纳入仓库（需另行存放）
+/tx/交互式计算机图形学—基于OpenGL着色器的自顶向下方法（第六版）(1).pdf
+
+# 系统杂项
+Thumbs.db
+desktop.ini
+.DS_Store
